@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #ccc;
+    font-family: 'Lato', sans-serif;
+    word-break: break-word;
+}
+
